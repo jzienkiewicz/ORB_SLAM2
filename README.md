@@ -1,3 +1,12 @@
+This is a slightly modified version of ORBSLAM.
+DBoW2 and g2o are not included in the Thirdparty folder and need to be installed manually.
+Use cmake to build the ORBSLAM.
+
+Remember to extract the ORBvoc in the Vocabulary directory:
+```
+tar -xf ORBvoc.txt.tar.gz
+```
+
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 

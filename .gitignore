@@ -1,4 +1,6 @@
+*.user
 *.kdev4
+build
 obj
 obj_release
 Vocabulary/ORBvoc.txt
